@@ -5,6 +5,8 @@
 ![Platform](https://img.shields.io/badge/Platform-PC%20%2F%20Windows-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Fully%20Functional-brightgreen?style=for-the-badge)
 
+![Preview](png/1.png)
+
 A powerful, high-performance memory modifier utility designed for **Palworld**. This trainer allows for real-time manipulation of player statistics, Pal attributes, economic variables, and crafting requirements.
 
 Optimized for stealth execution, minimal resource footprint, and seamless integration with the game's engine.
